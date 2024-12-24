@@ -1,7 +1,3 @@
 # BookBot
 
-https://boot.dev bookbot project
-
-## Description
-
-Bookbot is my first project!
+BookBot is a simple python tool for managing pdfs
